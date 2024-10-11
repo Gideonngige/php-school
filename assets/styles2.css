@@ -1,0 +1,22 @@
+#col1{
+    background-color: blue;
+}
+#col2{
+    background-color: orange;
+}
+#col3{
+    background-color: blue;
+}
+#submitBtn{
+    width:100%;
+    margin-bottom: 10px;
+}
+table{
+    width:100%;
+}
+table, th, td{
+    border:3px solid white;
+}
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}

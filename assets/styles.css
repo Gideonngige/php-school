@@ -1,0 +1,26 @@
+nav{
+    background-color: blue;
+    padding: 4px 8px;
+    margin-bottom: 10px;
+}
+nav a{
+    color: orange;
+    padding: 4px 8px;
+    text-decoration: none;
+}
+nav a:hover{
+    background-color: orange;
+    color:blue;
+}
+table{
+    width:100%;
+}
+table, th, td{
+    border:1px solid;
+}
+tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+.test{
+    color: blue;
+}
